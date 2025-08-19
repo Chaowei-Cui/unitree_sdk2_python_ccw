@@ -266,7 +266,6 @@ class G1DataCollector:
 
 def main():
     print("=== G1机器人数据收集器 ===")
-    print("警告: 请确保机器人周围没有障碍物!")
     
     # 获取收集参数
     try:
